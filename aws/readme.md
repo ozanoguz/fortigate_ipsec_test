@@ -1,4 +1,4 @@
-# Fortinet IPSEC Lab - AWS Infrastructure
+# FortiGate IPSEC Lab - AWS Infrastructure
 
 This repository contains Terraform code for deploying a complete Fortinet IPsec testing lab environment on AWS. The lab includes two FortiGate appliances configured with IPsec VPN tunnels and multiple Ubuntu-based iPerf test instances for network performance testing.
 
